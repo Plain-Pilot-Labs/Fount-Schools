@@ -3,6 +3,9 @@
 Fount AI is a smart AI assistant designed to help students study faster and learn better.  
 It can help with homework, explanations, notes, and study support.
 
+## Pictures
+Contact on phone number given further in the readme file for photos and videos
+
 
 ## Live Demo 
 https://fountschools.netlify.app/
