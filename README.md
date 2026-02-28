@@ -2,7 +2,6 @@
 
 Fount AI is a smart AI assistant designed to help students study faster and learn better.  
 It can help with homework, explanations, notes, and study support.
-![Uploading image.png…]()
 
 
 ## Live Demo 
@@ -41,7 +40,8 @@ Perfect for:
 
 ## 💰 Price
 
-**Price: ₹3500**
+**Price: ₹5000**
+(Negotiable)
 
 One-time payment.
 
